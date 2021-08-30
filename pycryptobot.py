@@ -860,6 +860,8 @@ def main():
         message += ' for ' + app.getMarket() + ' using granularity ' + app.printGranularity() + '. Smartswitch ' + smartSwitchStatus
         app.notifyTelegram(message)
 
+        Logger.info(f"Your available funds are : {account.getBalance()} buying power is {app.getBuyPercent()}")
+
         # initialise and start application
         trading_data = app.startApp(account, state.last_action)
 

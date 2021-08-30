@@ -1,0 +1,18 @@
+{
+    "coinbasepro": {
+        "api_url": "https://api.pro.coinbase.com",
+        "config": {
+            "base_currency": "ADA",
+            "quote_currency": "GBP",
+            "live": 1,
+            "verbose": 0,
+            "sellatloss": 0,
+            "buypercent": 25
+        },
+        "api_key_file": "coinbasepro.key"
+    },
+    "telegram": {
+        "token": "1754424999:AAF284mRwGJ572dX35cCoiuZN60qV8UGAvI",
+        "client_id": "1921878784"
+    }
+}
