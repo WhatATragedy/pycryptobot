@@ -45,18 +45,3 @@ services:
     deploy:
       restart_policy:
         condition: on-failure
-
-  solgbp:
-    build:
-      context: .
-    container_name: solgbp
-    volumes:
-      - ./market/SOLGBP/config.json:/app/config.json
-      - ./market/SOLGBP/pycryptobot.log:/app/pycryptobot.log
-      - ./market/SOLGBP/graphs:/app/graphs
-      - /etc/localtime:/etc/localtime:ro
-    environment:
-      - PYTHONUNBUFFERED=1
-    deploy:
-      restart_policy:
-        condition: on-failure
