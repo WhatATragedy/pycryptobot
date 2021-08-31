@@ -1,1 +1,27 @@
 
+2021-08-30 18:50:54 INFO     --------------------------------------------------------------------------------
+2021-08-30 18:50:54 INFO     |                              Python Crypto Bot                               |
+2021-08-30 18:50:54 INFO     --------------------------------------------------------------------------------
+2021-08-30 18:50:54 INFO     |                Release : v3.3.1                                              |
+2021-08-30 18:50:54 INFO     --------------------------------------------------------------------------------
+2021-08-30 18:50:54 INFO     |               Bot Mode : TEST - test trades using dummy funds :)             |
+2021-08-30 18:50:54 INFO     |            Bot Started : 2021-08-30 18:50:54.433823                          |
+2021-08-30 18:50:54 INFO     ================================================================================
+2021-08-30 18:50:54 INFO     | Trailing Stop Loss Trg : 0%                                                  |
+2021-08-30 18:50:54 INFO     |           Sell At Loss : True  --sellatloss True                             |
+2021-08-30 18:50:54 INFO     |     Sell At Resistance : False  --sellatresistance                           |
+2021-08-30 18:50:54 INFO     |        Trade Bull Only : True  --disablebullonly                             |
+2021-08-30 18:50:54 INFO     |          Buy Near High : True  --disablebuynearhigh                          |
+2021-08-30 18:50:54 INFO     |           Use Buy MACD : True  --disablebuymacd                              |
+2021-08-30 18:50:54 INFO     |            Use Buy EMA : True  --disablebuyema                               |
+2021-08-30 18:50:54 INFO     |            Use Buy OBV : True  --disablebuyobv                               |
+2021-08-30 18:50:54 INFO     |      Use Buy Elder-Ray : True  --disablebuyelderray                          |
+2021-08-30 18:50:54 INFO     |     Sell Fibonacci Low : True  --disablefailsafefibonaccilow                 |
+2021-08-30 18:50:54 INFO     |   Candlestick Reversal : True  --disableprofitbankreversal                   |
+2021-08-30 18:50:54 INFO     |               Telegram : True  --disabletelegram                             |
+2021-08-30 18:50:54 INFO     |                    Log : True  --disablelog                                  |
+2021-08-30 18:50:54 INFO     |                Tracker : True  --disabletracker                              |
+2021-08-30 18:50:54 INFO     |       Auto restart Bot : False  --autorestart                                |
+2021-08-30 18:50:54 INFO     ================================================================================
+2021-08-30 18:50:54 INFO     2021-08-30 17:00:00 | BTC-EUR (BEAR) | 3600 | Close: 40817.4400 | v EMA12/26: 40733.2487 < 40857.1483 v | ^ MACD: -123.8996 > -147.3602 ^ | v OBV: 344.6667 (-8.6900%) v | ERI: sell | WAIT | Last Action: SELL | DF HIGH: 43028.24 | DF LOW: 37773.21 | SWING: 13.91% | CURR Price is -5.14% away from DF HIGH | Range: 2021-08-18 06:00:00 <--> 2021-08-30 17:00:00
+2021-08-30 18:50:56 INFO     Seasonal ARIMA model predicts the closing price will be 40929.2 at 2021-08-30 20:00:00 (delta: 111.76)

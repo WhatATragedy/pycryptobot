@@ -7,7 +7,8 @@
             "live": 1,
             "verbose": 0,
             "sellatloss": 0,
-            "buypercent": 25
+            "buypercent": 25,
+            "disablebullonly": 1
         },
         "api_key_file": "coinbasepro.key"
     },
